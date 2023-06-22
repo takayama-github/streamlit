@@ -5,8 +5,7 @@ https://streamlit.io/
 ## Usage
 
 ```sh
-pip install pandas
-pip install streamlit
+python -m pip install -r requirements.txt
 streamlit run src/app.py
 # 表示されたURLにアクセス
 ```
